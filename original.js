@@ -117,7 +117,7 @@ function laddiPost() {
             },
             data: {
                 clientId: "1c8dbddf9165922df29773c7b440a7e2322ca22d41cf3d53affdfc48a1e453f1",
-                courseName: "Packaging Gold Fundamentals",
+                courseName: "Craft Gold",
                 date: date,
                 nameLMS: nameLMS,
                 nameEntry: nameEntry,
